@@ -44,8 +44,8 @@ ATS stands for "Applicant Tracking System." It helps organizations manage their 
 ## Results
 
        For a demonstration of how the system works, watch the video below:
-       
-       https://github.com/user-attachments/assets/6e438316-1ab4-4174-b990-8fad79e1c754
+
+       https://github.com/user-attachments/assets/1688e0cc-ee11-4b51-9a22-f42a1b560b82
 
 
 ## Contributing
