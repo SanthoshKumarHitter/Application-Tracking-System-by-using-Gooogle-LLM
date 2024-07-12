@@ -1,5 +1,5 @@
 # Application-Tracking-System
-ATS stands for "Applicant Tracking System." It helps organizations manage their recruitment and hiring process more effectively. ATS systems are used by companies to automate the initial stages of the hiring process, including collecting, screening, and managing job applications. This project is an Applicant Tracking System (ATS) that helps streamline the hiring process by automating the sorting and ranking of job applications.
+Application Tracking System by using Google LLM gemini pro. ATS stands for "Applicant Tracking System." It helps organizations manage their recruitment and hiring process more effectively. ATS systems are used by companies to automate the initial stages of the hiring process, including collecting, screening, and managing job applications. This project is an Applicant Tracking System (ATS) that helps streamline the hiring process by automating the sorting and ranking of job applications.
 
 ## Features
 
