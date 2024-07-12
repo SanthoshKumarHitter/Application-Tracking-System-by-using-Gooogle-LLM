@@ -44,8 +44,7 @@ ATS stands for "Applicant Tracking System." It helps organizations manage their 
 ## Results
 
        For a demonstration of how the system works, watch the video below:
-
-       [streamlit-app-2024-07-12-11-07-64.webm](https://github.com/user-attachments/assets/a20ac8e9-cfd7-4f2e-b4d2-fd4a4c890bb2)
+       [streamlit-app-2024-07-12-11-07-64.webm](https://github.com/user-attachments/assets/532e5025-b827-41df-8249-c2d8fcdcd1d7)
 
 
 
